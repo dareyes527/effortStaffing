@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<section id="contact">
+
+    <br />
+    <div class="container-fluid">
+
+        <div  class="col-xs-12 col-md-4">
+            <div class="row intro" style=" background-color: transparent; color: white">
+                <h1>CONTACT US</h1>
+            </div>
+
+            <p>See how effortless it is to work with EFFORT Staffing. Whether you are an employer or seeking a job, contact us today for sourcing solutions with total reliability and integrity. Thank you for your interest.</p>
+            <br />
+            <i class="fa fa-map-marker" aria-hidden="true"></i>
+            <p class="address">
+                EFFORT Staffing Corporate Office:<br />
+                1301 Fannin<br />
+                Suite 2350<br />
+                Houston, TX 77002
+            </p>
+            
+                <i class="fa fa-phone" aria-hidden="true"></i>
+                <p>
+                    (281) 810-8600
+                </p>
+            <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                <p>info@effort.com</p>
+            <br />
+            <div>
+                @await Component.InvokeAsync("ContactForm")
+            </div>
+            <h3>@ViewData["Message"]</h3>
+            <br />
+        </div>
+
+    </div>
+
+</section>

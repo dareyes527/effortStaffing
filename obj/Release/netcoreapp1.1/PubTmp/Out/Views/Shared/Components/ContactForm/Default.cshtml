@@ -1,0 +1,12 @@
+﻿@model EffortStaffing.ViewModels.ContactFormViewModel
+
+<form method="post" asp-action="ContactForm" asp-controller="Contact">
+    <fieldset>
+        <legend>Let's Connect</legend>
+        Name:<br /><input asp-for="Name" /><br />
+        Email:<br /><input asp-for="Email" /><br />
+        Phone:<br /><input asp-for="Phone" /><br />
+        Message:<br /><textarea asp-for="Message"></textarea><br />
+        <input type="submit" value="Submit" class="btn btn-primary" />
+    </fieldset>
+</form>

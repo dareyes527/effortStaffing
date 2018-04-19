@@ -1,0 +1,13 @@
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Debug\netcoreapp1.1\EffortStaffing.deps.json
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Debug\netcoreapp1.1\EffortStaffing.runtimeconfig.json
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Debug\netcoreapp1.1\EffortStaffing.runtimeconfig.dev.json
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Debug\netcoreapp1.1\EffortStaffing.dll
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Debug\netcoreapp1.1\EffortStaffing.pdb
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Debug\netcoreapp1.1\EffortStaffing.csprojResolveAssemblyReference.cache
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Debug\netcoreapp1.1\EffortStaffing.AssemblyInfo.cs
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Debug\netcoreapp1.1\EffortStaffing.dll
+c:\users\worldpmo2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Debug\netcoreapp1.1\EffortStaffing.pdb
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Debug\netcoreapp1.1\EffortStaffing.csproj.CoreCompileInputs.cache
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Debug\netcoreapp1.1\wwwroot\css\site.css
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Debug\netcoreapp1.1\wwwroot\css\site.min.css
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Debug\netcoreapp1.1\EffortStaffing.AssemblyInfoInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Release\netcoreapp1.1\EffortStaffing.deps.json
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Release\netcoreapp1.1\EffortStaffing.runtimeconfig.json
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Release\netcoreapp1.1\EffortStaffing.runtimeconfig.dev.json
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Release\netcoreapp1.1\EffortStaffing.dll
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Release\netcoreapp1.1\EffortStaffing.pdb
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Release\netcoreapp1.1\EffortStaffing.csprojResolveAssemblyReference.cache
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Release\netcoreapp1.1\EffortStaffing.csproj.CoreCompileInputs.cache
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Release\netcoreapp1.1\EffortStaffing.AssemblyInfo.cs
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Release\netcoreapp1.1\EffortStaffing.dll
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Release\netcoreapp1.1\EffortStaffing.pdb
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Release\netcoreapp1.1\wwwroot\css\site.css
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\bin\Release\netcoreapp1.1\wwwroot\css\site.min.css
+C:\Users\WORLDPMO2\documents\visual studio 2017\Projects\EffortStaffing\EffortStaffing\obj\Release\netcoreapp1.1\EffortStaffing.AssemblyInfoInputs.cache
